@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963208763596",
+    "project_id": "vpay-403913",
+    "storage_bucket": "vpay-403913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963208763596:android:07170966c6b59932b6ca69",
+        "android_client_info": {
+          "package_name": "com.example.v_pay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_B8JxwstBmwETa2Vk6L98qxwX4R-LTBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
